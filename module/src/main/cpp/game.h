@@ -3,6 +3,6 @@
 
 // TODO: change this
 #define TargetLibName "libil2cpp.so"
-#define GamePackageName "com.chaloapps.roosterrudy"
+#define GamePackageName "com.segasvd.WeaponFieldStrip"
 
 #endif //ZYGISK_IMGUI_MODMENU_GAME_H
